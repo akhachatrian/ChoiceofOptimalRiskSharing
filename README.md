@@ -1,2 +1,5 @@
-# akhachatrian-TheChoiceofOptimalRiskSharing
-"The Choice of Optimal Risk Sharing between Insurer and Client to Maximize the Expected Utility of Insurer". Contributors: Armen Khachatrian, Kirill Pankov
+# Annotation
+  The principal object of study in term paper is the model of individual risk or, in a different way, the statistical model of normal total loss from the fund, which consists of the own capital of insurance company and amounts of money raised from their clients.
+  The critical goal of model study is the choice of optimal risk sharing between insurer (insurance company) and client to maximize the final expected utility of insurer.
+  As a result of work accomplished upper limits of the responsibility of insurer were found in cases of continuous and discrete distributions. Furthermore, the conclusions of their dependence of variation in input data were reached.
+The term paper is divided into two parts: theoretic and practical. The first part includes the description of the insurance model, terminology and theoretical bases. The second part comprises numerical solutions under different conditions. For illustrative purposes, there are plots showing susceptibility of changes of the upper limit of insurer responsibility in two cases.
